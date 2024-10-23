@@ -14,6 +14,6 @@ This is a school management system built using PHP, HTML, CSS, and MVC architect
 - **PHP:** Backend logic and MVC architecture.
 - **HTML & CSS:** Frontend structure and styling.
 
-- ## Watch a preview!
- [Preview](https://www.youtube.com/watch?v=_M1pXknzIyI)
+## Watch a [Preview](https://www.youtube.com/watch?v=_M1pXknzIyI)!
+
 
